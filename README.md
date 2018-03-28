@@ -24,3 +24,7 @@ exp1_ouput.pdf
 exp2_ouput.pdf
 exp3_ouput.pdf
 exp4_ouput.pdf
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
